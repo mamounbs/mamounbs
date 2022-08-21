@@ -1,5 +1,4 @@
-### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mamounbs&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamounbs&theme=tokyonight_duo" alt="mystreak"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mamounbs&show_icons=true&hide_border=true&theme=github_dark">
 
