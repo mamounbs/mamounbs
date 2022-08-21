@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamounbs&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamounbs&theme=github_dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=mamounbs&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamounbs&theme=tokyonight_duo" alt="mystreak"/>
+
